@@ -3,7 +3,7 @@ name: Deploy React App to Pages
 
 on:
   push:
-    branches: ["main"]
+    branches: ["Build1"]
   workflow_dispatch:
 
 permissions:
